@@ -9,3 +9,11 @@ Each player has the option to shoot the ball (for 2 points or 3), pass the ball 
 The match continues until there are no rounds left at which point a winner will be automatically determined.
 
 Enjoy!
+
+Running Instructions:
+
+1. Download all 3 files into the same directory.
+2. Open in your environment/IDE of your choice (since the simulator uses the Ansyncio module, you will need Python 3.7 or later).
+3. Run the main.py file.
+4. Enjoy the game!
+
